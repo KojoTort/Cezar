@@ -42,8 +42,8 @@ Returns:
 None
 Example:
 cs_code = """
-khoor, zruog!
-cnjuf(khoor + ', ' + zruog + '!')
+
+sulqw("Khoor Zruog")
 """
 
 shift_value = 3
